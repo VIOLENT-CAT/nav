@@ -71,14 +71,14 @@ categories:
     links:
       - title: NGINX
         logo: https://nginx.vcat.im/img/favicon.ico
-        url: hhttps://nginx.vcat.im
+        url: https://nginx.vcat.im
         description: NGINX管理平台
         #tags: 程序员,社区
       - title: XUI
         #logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
         url: https://xui.vcat.im
         description: XUI管理平台。
-        #tags: 在线工具,周刊,社区
+        #tags: 在线工具
         
   - category: 推荐
     hide_menu: true
