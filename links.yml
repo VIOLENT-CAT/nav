@@ -32,11 +32,11 @@ $friendship_links_url: https://geneasy.github.io/links/
 ################
 ## 导航栏
 ################
-navigation_urls:
-  - title: 页面1
-    url: page1/
-  - title: 页面2
-    url: page2/
+#navigation_urls:
+#  - title: 页面1
+#    url: page1/
+#  - title: 页面2
+#    url: page2/
 
 ################
 ## 网址导航数据
@@ -65,7 +65,21 @@ categories:
         url: https://discuss-cn.pipecraft.net/
         description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
         tags: RSS,Atom,聚合新闻,内容订阅
-
+        
+  - category: VCAT.IM
+    icon: linecons-doc
+    links:
+      - title: NGINX
+        logo: https://nginx.vcat.im/img/favicon.ico
+        url: hhttps://nginx.vcat.im
+        description: NGINX管理平台
+        #tags: 程序员,社区
+      - title: XUI
+        #logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
+        url: https://xui.vcat.im
+        description: XUI管理平台。
+        #tags: 在线工具,周刊,社区
+        
   - category: 推荐
     hide_menu: true
     icon: linecons-star
