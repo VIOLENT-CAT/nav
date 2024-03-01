@@ -82,7 +82,7 @@ categories:
         
   - category: NAS
     icon: fa-solid fa-hard-drive
-    style: "color: #74C0FC"
+    style: 1
     links:
       - title: NGINX
         logo: https://nginx.nas.link/img/favicon.ico
