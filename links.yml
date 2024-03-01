@@ -66,7 +66,33 @@ categories:
         description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
         tags: RSS,Atom,聚合新闻,内容订阅
         
-  - category: VCAT的导航
+  - category: VCAT
+    icon: fa-solid fa-user
+    links:
+      - title: NGINX
+        logo: https://nginx.vcat.im/img/favicon.ico
+        url: https://nginx.vcat.im
+        description: NGINX管理平台
+        #tags: 程序员,社区
+      - title: XUI
+        #logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
+        url: https://xui.vcat.im
+        description: XUI管理平台。
+        #tags: 在线工具
+        
+  - category: NAS
+    icon: linecons-doc
+    links:
+      - title: NGINX
+        logo: https://nginx.nas.link/img/favicon.ico
+        url: https://nginx.nas.link
+        description: NGINX管理平台
+      - title: XUI
+        #logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
+        url: https://xui.vcat.im
+        description: XUI管理平台。
+
+  - category: 服务器厂商
     icon: linecons-doc
     links:
       - title: NGINX
