@@ -93,6 +93,24 @@ categories:
         #logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
         url: https://xui.vcat.im
         description: XUI管理平台。
+    categories:
+      - category: 二级分组1
+        icon: linecons-star
+        links:
+          - title: DTO
+            logo: https://dto.pipecraft.net/apple-touch-icon-144.png
+            url: https://dto.pipecraft.net/
+            description: 一个类似 Hacker News, Lobsters 的链接分享社区
+            tags: 程序员,社区
+            
+      - category: 二级分组2
+        icon: linecons-star
+        links:
+          - title: DTO
+            logo: https://dto.pipecraft.net/apple-touch-icon-144.png
+            url: https://dto.pipecraft.net/
+            description: 一个类似 Hacker News, Lobsters 的链接分享社区
+            tags: 程序员,社区
 
   - category: 服务器厂商
     icon: linecons-doc
