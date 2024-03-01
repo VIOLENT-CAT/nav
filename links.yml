@@ -81,7 +81,8 @@ categories:
         #tags: 在线工具
         
   - category: NAS
-    icon: linecons-doc
+    icon: fa-solid fa-hard-drive
+    style: "color: #74C0FC"
     links:
       - title: NGINX
         logo: https://nginx.nas.link/img/favicon.ico
