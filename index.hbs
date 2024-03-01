@@ -100,7 +100,7 @@
                     <li>
                         {{#if categories}}
                         <a>
-                            <i class="{{icon}}" {{#if style}}style = "{{style}}"{{/if}}></i>
+                            <i class="{{icon}}"></i>
                             <span class="title">{{category}}</span>
                         </a>
                         <ul>
@@ -119,7 +119,7 @@
                         </ul>
                         {{else}}
                         <a href="#{{category}}" class="smooth">
-                            <i class="{{icon}}"></i>
+                            <i class="{{icon}}" {{#if style}}style="{{style}}"{{/if}}></i>
                             <span class="title">{{category}}</span>
                         </a>
                         {{/if}}

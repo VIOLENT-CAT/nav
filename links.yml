@@ -68,6 +68,7 @@ categories:
         
   - category: VCAT
     icon: fa-solid fa-user
+    style: 1
     links:
       - title: NGINX
         logo: https://nginx.vcat.im/img/favicon.ico
@@ -82,7 +83,7 @@ categories:
         
   - category: NAS
     icon: fa-solid fa-hard-drive
-    style: 1
+    style: "color: #74C0FC"
     links:
       - title: NGINX
         logo: https://nginx.nas.link/img/favicon.ico
