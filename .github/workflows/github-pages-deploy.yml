@@ -17,7 +17,7 @@ jobs:
           geneasy -t index.hbs -o public/page1/index.html links.yml
           geneasy -t index.hbs -o public/page2/index.html links.yml
           
-          cp -r ./ext/ public/
+          cp -r ./ext/* public/
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.5
